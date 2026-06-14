@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Cat Tien Jungle Lodge",
+  "description": "Executive dashboard suite for eco-luxury resort management, featuring real-time financials, staff rosters, sustainability metrics, and room management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
